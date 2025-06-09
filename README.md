@@ -47,7 +47,8 @@ See our [contribution guide](https://mozilla.github.io/kitsune/contributors), or
 
 We use [Bugzilla](https://bugzilla.mozilla.org/enter_bug.cgi?product=support.mozilla.org) for submitting and prioritizing issues.
 
-## Thanks to all of our contributors ❤️
+## This is a fork of mozilla/kitsune and hence my heartfealt thanks to these greats
+## Thanks to all of our contributors of Kitsune ❤️
 
 <a href = "https://github.com/mozilla/kitsune/contributors">
   <img src = "https://contrib.rocks/image?repo=mozilla/kitsune"/>
