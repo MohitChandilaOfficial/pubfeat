@@ -2,7 +2,11 @@
 
 ![Status Sustain](https://img.shields.io/badge/Status-Sustain-green)
 
-PubFeat is an effort to create a platform for community driven feature development.
+PubFeat is an effort to create a portal that serves as a community driven issue epic/ backlog for organizations at large.
+
+Rationale: Issues affecting hundereds or thousands or even millions of consumers are not accounted for publicly, rather dealt in silos of one-to-one support tickets, which puts consumers (includes children and elderly) and regulatory authorities at a disadvantage. This is not to say that orgs are doing anything wrong, however, a gap is evident. Org features are mostly driven by business need and regulatory afflictions, however, true urgency of meaningful features gets watered down when filtered and sourced from support systems and run teams, driven by their own kpis. 
+
+Solution: A safe space for posting, assessing, voting on issues/ stories/ features as a collective, creating actionable backlog for Organizations at large to feed from. 
 
 ## Usage
 
