@@ -1,12 +1,12 @@
-# Kitsune
+# Fork of mozilla/kitsune, being re-writen for PubFeat
 
 ![Status Sustain](https://img.shields.io/badge/Status-Sustain-green)
 
-Kitsune is the platform that powers [SuMo (support.mozilla.org)](https://support.mozilla.org)
+PubFeat is an effort to create a platform for community driven feature development.
 
 ## Usage
 
-It is a [Django](http://www.djangoproject.com/) application. There is [documentation](https://mozilla.github.io/kitsune/) online.
+It is a [Django](http://www.djangoproject.com/) application. There is [documentation](https://mozilla.github.io/kitsune/) on Kitsune by Mozilla, online.
 
 ## Releasing a new version
 
@@ -29,7 +29,7 @@ It is a [Django](http://www.djangoproject.com/) application. There is [documenta
 -   Trigger the release for the specified tag in the deploy repository.
 
 > [!TIP]
-> You can access the staging site at <https://support.allizom.org/>.
+> You can access the staging site at **TBD**
 
 ## Code of Conduct
 
